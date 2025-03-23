@@ -12,9 +12,6 @@ I'm currently studying a degree in computer engineering and learning on my own c
 ![](https://nirzak-streak-stats.vercel.app/?user=DaniDR12&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniDR12&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DaniDR12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
