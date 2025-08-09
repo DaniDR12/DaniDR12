@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm currently studying a degree in computer engineering and learning on my own cyber security
+I'm currently studying a degree in computer engineering 
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/409474987750326293?bg=9966cc&animated=true&idleMessage="Sleeping"&hideDecoration=true&hideTag=true&hideBadges=true)](https://discord.com/users/409474987750326293)
 
 
 ## 🌐 Socials:
